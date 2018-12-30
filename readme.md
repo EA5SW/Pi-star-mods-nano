@@ -7,10 +7,12 @@ Put the system in RW with
 rpi-rw
 
 Clone the GIT
-git clone https://github.com/EA5SW/Pi-star-mods
+git clone https://github.com/EA5SW/Pi-star-mods-nano
+
+
 
 Enter folder
-cd Pi-start-mods
+cd Pi-start-mods-nano
 
 stop the MMDVM
 
